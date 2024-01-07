@@ -1,20 +1,11 @@
 ### _Hi there_ ✌️
 
 ## 🎧 _Syaf_ here at your service !
-I'm Syafiq, an Informatics Student at ITS Surabaya.
-
-I do many game development at the past, but now starting a fresh and focusing about Back-End technology and web development.
-
-Technology Stack that I love the most:
-- 🍟 Laravel
-- 🍿 React
-- 🍣 Tailwind CSS
-- 🧊 Unity
+I'm Syafiq, an backend enthusiast.
 
 ## My Stats
 <div>
   <img height=154 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syafiqjos&layout=compact&hide_border=true&hide=html,css,blade&theme=onedark&langs_count=6"/>
-  <img height=154 src="https://github-readme-stats.vercel.app/api?username=Syafiqjos&custom_title=Syaf's Github Stats&line_height=27&count_private=true&hide_border=true&show_icons=true&theme=onedark">
 </div>
 
 ## Let's connect!
